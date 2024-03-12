@@ -1,3 +1,4 @@
+![](https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif)
 <h1 align="center">Hi 👋, I'm MUHAMMAD BILAL KHAN</h1>
 <h3 align="center">A passionate frontend developer from PAKISTAN</h3>
 
@@ -10,6 +11,7 @@
 - 📫 How to reach me **mohammad.mbilal.54@gmail.com**
 
 - ⚡ Fun fact **book reading**
+- ![](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
